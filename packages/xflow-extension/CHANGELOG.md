@@ -1,5 +1,14 @@
 # @antv/xflow-extension
 
+## 1.0.37
+
+### Patch Changes
+
+- 1286ef25: fix: typo in node and edge command visible update
+- Updated dependencies [1286ef25]
+  - @antv/xflow-core@1.0.37
+  - @antv/xflow-hook@1.0.37
+
 ## 1.0.36
 
 ### Patch Changes
